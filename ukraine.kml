@@ -3,8 +3,9 @@
   <name>Ukraine</name>
   <Style> 
   <PolyStyle>  
-   <color>#a00000ff</color>
-  <outline>0</outline>
+   <color>#FFFEFF</color>
+    <opacity>100</opacity>
+  <outline>4</outline>
   </PolyStyle> 
  </Style>
   <Polygon>
