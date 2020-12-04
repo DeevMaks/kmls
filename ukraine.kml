@@ -7,6 +7,10 @@
     <opacity>100</opacity>
   <outline>4</outline>
   </PolyStyle> 
+    <LineStyle>
+ <color>#FFFEFF</color>
+ <width>4</width>
+ </LineStyle>
  </Style>
   <Polygon>
 <altitudeMode>clampToGround</altitudeMode>
