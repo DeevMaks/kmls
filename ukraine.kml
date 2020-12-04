@@ -4,7 +4,6 @@
   <Style> 
   <PolyStyle>  
    <color>#FFFEFF</color>
-    <opacity>100</opacity>
   <outline>4</outline>
   </PolyStyle> 
     <LineStyle>
